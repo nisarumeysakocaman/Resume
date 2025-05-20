@@ -5,7 +5,7 @@ body{
     background-color: white ;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     margin: 2%;
-    background-image: linear-gradient(to bottom, white, bisque);
+    background-image: linear-gradient(to bottom, white,#f6e7c2);
     border: 1px solid black;
     
 }
